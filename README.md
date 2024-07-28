@@ -1,3 +1,5 @@
+Pleasw click on Wiki
+
 Welcome to the new Manchester Hackspace PrintNC page.
 
 The machine is named Chunky.
